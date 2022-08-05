@@ -3,9 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+    overflow: hidden;
+}
 #container {
   position: relative;
-  width: 433px;
+  width: 435px;
   height: 309px;
   overflow: hidden;
   margin:  0 auto;
@@ -30,15 +33,15 @@
 #img-02{
     position: absolute;
     top: -309px;
-    left: 433px;
+    left: 1300px;
 }
 #img-03{
     position: absolute;
     top: -618px;
-    left: 866px;
+    left: 2600px;
 }
 #img-04{
     position: absolute;
     top: -927px;
-    left: 1299px;
+    left: 3900px;
 }
